@@ -1,0 +1,16 @@
+.jumbotron {
+  padding: 6rem;
+}
+
+.h1 {
+  font-family: Mazzard;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 80px;
+  /* or 107% */
+
+  color: #213053;
+}
+.card {
+  border: none;
+}
